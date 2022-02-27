@@ -1,0 +1,4 @@
+Information 27.02.2022 13:28:23 Username=ArmenWonAmount=0
+Information 27.02.2022 13:29:27 Username=ArmenWonAmount=0
+Information 27.02.2022 13:30:01 Username=SWonAmount=0
+Information 27.02.2022 13:31:12 Username=wWonAmount=204600

@@ -1,0 +1,16 @@
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\bin\Debug\net5.0\LuckySteps_2(Gurgen).exe
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\bin\Debug\net5.0\LuckySteps_2(Gurgen).deps.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\bin\Debug\net5.0\LuckySteps_2(Gurgen).runtimeconfig.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\bin\Debug\net5.0\LuckySteps_2(Gurgen).runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\bin\Debug\net5.0\LuckySteps_2(Gurgen).dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\bin\Debug\net5.0\ref\LuckySteps_2(Gurgen).dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\bin\Debug\net5.0\LuckySteps_2(Gurgen).pdb
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\obj\Debug\net5.0\LuckySteps_2(Gurgen).csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\obj\Debug\net5.0\LuckySteps_2(Gurgen).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\obj\Debug\net5.0\LuckySteps_2(Gurgen).AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\obj\Debug\net5.0\LuckySteps_2(Gurgen).AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\obj\Debug\net5.0\LuckySteps_2(Gurgen).csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\obj\Debug\net5.0\LuckySteps_2(Gurgen).dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\obj\Debug\net5.0\ref\LuckySteps_2(Gurgen).dll
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\obj\Debug\net5.0\LuckySteps_2(Gurgen).pdb
+C:\Users\Toshiba\Desktop\C#\Digitain\Level2\Week1\LuckySteps\LuckySteps_2(Gurgen)\LuckySteps_2(Gurgen)\obj\Debug\net5.0\LuckySteps_2(Gurgen).genruntimeconfig.cache
